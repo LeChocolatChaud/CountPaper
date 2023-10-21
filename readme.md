@@ -18,4 +18,4 @@ Run the web server and the api server using:
 python main.py
 ```
 
-The test.png is for testing.
+The web interface is hosted on localhost with port 8000. The test.png is for testing.
